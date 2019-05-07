@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "SeptemTemplateLibrary",
+  "Description": "A Template Library for Unreal Enigne. Using namespace Septem.",
+  "Category": "Septem",
+  "CreatedBy": "7Mersenne",
+  "CreatedByURL": "https://github.com/sikkey/SeptemTemplateLibrary",
+  "DocsURL": "https://github.com/sikkey/SeptemTemplateLibrary/wiki",
+  "MarketplaceURL": "",
+  "SupportURL": "https://github.com/sikkey/SeptemTemplateLibrary/issues",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "SeptemTemplateLibrary",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
